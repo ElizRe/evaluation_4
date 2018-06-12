@@ -21,7 +21,7 @@ Compétence :
 L'interface doit être responsive.
 Aucune connexion utilisateur n'est demandée.
 Aucun framewrok PHP n'est autorisé.
-Le javascript n'est pas autorisé.
+Aucun framewrok javascript n'est autorisé.
 Le choix (ou non) d'un framework CSS est libre.
 
 Note: la vérification des résevations pour une chambre n'est pas demandé, il sera
