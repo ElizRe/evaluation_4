@@ -31,14 +31,14 @@ CREATE TABLE `chambres` (
   `numero` int(11) NOT NULL,
   `nom` varchar(255) NOT NULL,
   `grilleTarifaire` enum('A','B','C','D') NOT NULL,
-  `status` enum('disponible','indisponible') NOT NULL
+  `statut` enum('disponible','indisponible') NOT NULL
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8;
 
 --
 -- Dumping data for table `chambres`
 --
 
-INSERT INTO `chambres` (`id`, `numero`, `nom`, `grilleTarifaire`, `status`) VALUES
+INSERT INTO `chambres` (`id`, `numero`, `nom`, `grilleTarifaire`, `statut`) VALUES
 (5, 1001, 'Victoria (Suite)', 'D', 'disponible'),
 (6, 101, 'Bergamot', 'A', 'disponible'),
 (7, 102, 'Safran', 'A', 'indisponible'),
