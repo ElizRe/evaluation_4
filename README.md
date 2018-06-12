@@ -14,6 +14,7 @@ Compétence :
 * *Développer un interface utilisateur*
 * *Développer des composants d'accès aux données*
 * *Développer des pages web en lien avec une base de données*
+* *Développer une application simple de mobilité numérique*
 
 ## Contraintes:
 
