@@ -28,7 +28,10 @@ possible de créer plusieurs réservation aux même dates sur une chambre.
 
 ## Source
 
-Vous trouverez ici un dump de la base de données à utiliser.
+Vous trouverez :
+* <a href="https://github.com/SimplonCahors/evaluation_4/blob/master/database_eval4.sql">Un dump de la base de données</a> à utiliser.
+* <a href="https://github.com/SimplonCahors/evaluation_4/tree/master/wireframes">Les wireframes de l'application</a> (en vert les fonctionnalités non obligatoires, à traiter dans un second temps si possible)
+
 
 ## Réalisation :
 **Durée :** 1 à 2 jours  
